@@ -1,0 +1,2 @@
+- 在并查集中添加虚拟top结点，在isFull判断时由O(n) -> O(1)
+- 存在"backwash" bug
